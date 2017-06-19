@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="name"></string>
+    <string name="textview"></string>
+    <string name="no_notes">No Previous Notes!</string>
+    <string name="file_name">Lastnote.xml</string>
+    <string name="notes_saved">Notes Saved!</string>
+    <string name="notes_not_saved">Nothing to save!</string>
+    <string name="enter_your_notes_here">Enter your notes here.</string>
+</resources>
