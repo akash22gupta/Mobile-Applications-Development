@@ -1,3 +1,2 @@
 # Mobile-Applications-Development
-![alt text](https://user-images.githubusercontent.com/1583660/27307120-dbb44fa2-550d-11e7-90c2-62fb239cd509.png
-)
+![alt text](https://github.com/akash22gupta/Mobile-Applications-Development/issues/2)
