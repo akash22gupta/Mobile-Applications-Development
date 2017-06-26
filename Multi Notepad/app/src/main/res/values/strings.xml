@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="enter_your_notes_here">Enter your notes here...</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="name"></string>
+    <string name="file_name">Notes.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="New">New Notes</string>
+
+
+</resources>
