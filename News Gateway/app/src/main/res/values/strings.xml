@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">News gateway</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="news">
+        <item>Bear</item>
+        <item>Camel</item>
+        <item>Elephant</item>
+        <item>Giraffe</item>
+        <item>Gorilla</item>
+        <item>Koala</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Random</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
